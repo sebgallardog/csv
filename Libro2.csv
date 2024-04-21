@@ -1,0 +1,124 @@
+﻿Clasificación;Cargo;Tamaño de la Empresa;Mínima M$;Máxima M$;Moda M$;Junior (M$);Semi Senior (M$);Senior (M$)
+Ejecutivo;CIO (Chief Information Officer);Grande;8000;15000;10000;;;
+Ejecutivo;CIO (Chief Information Officer);Mediana;5000;9000;6500;;;
+Ejecutivo;Gerente de Seguridad (CISO);Grande;5000;8500;6500;;;
+Ejecutivo;Gerente de Seguridad (CISO);Mediana;;;;;;
+Ejecutivo;CTO (Chief Technology Officer);Grande;5000;8000;7500;;;
+Ejecutivo;CTO (Chief Technology Officer);Mediana;3800;6000;5000;;;
+Ejecutivo;CDO (Chief Digital Officer);Grande;4500;8000;7500;;;
+Ejecutivo;CDO (Chief Digital Officer);Mediana;3500;6000;5000;;;
+Ejecutivo;Gerente de E-Commerce;Grande;5000;8500;7000;;;
+Ejecutivo;Gerente de E-Commerce;Mediana;4000;6000;5000;;;
+Ejecutivo;Gerente de Operaciones y Tecnología;Grande;5000;8000;7500;;;
+Ejecutivo;Gerente de Operaciones y Tecnología;Mediana;;;;;;
+Ejecutivo;Gerente Logística TI;Grande;4100;8300;6500;;;
+Ejecutivo;Gerente Logística TI;Mediana;;;;;;
+Ejecutivo;Gerente de Servicios;Grande;4500;8500;6500;;;
+Ejecutivo;Gerente de Servicios;Mediana;3500;7000;5000;;;
+Ejecutivo;Gerente de Infraestructura;Grande;4500;8000;7000;;;
+Ejecutivo;Gerente de Infraestructura;Mediana;;;;;;
+Ejecutivo;Gerente de Transformación Digital;Grande;4500;9500;8000;;;
+Ejecutivo;Gerente de Transformación Digital;Mediana;;;;;;
+Ejecutivo;Gerente de Arquitectura Empresarial;Grande;4500;8500;7000;;;
+Ejecutivo;Gerente de Arquitectura Empresarial;Mediana;;;;;;
+Ejecutivo;Gerente de Business Intelligence;Grande;4000;7000;5500;;;
+Ejecutivo;Gerente de Business Intelligence;Mediana;;;;;;
+Ejecutivo;Gerente de Innovación;Grande;4300;8000;7000;;;
+Ejecutivo;Gerente de Innovación;Mediana;;;;;;
+Ejecutivo;Director de Informática (Educación/Institutos);Grande;5000;14000;8500;;;
+Ejecutivo;Director de Informática (Educación/Institutos);Mediana;3500;9000;5000;;;
+Ejecutivo;Subgerente de Infraestructura;Grande;3800;6500;5000;;;
+Ejecutivo;Subgerente de Infraestructura;Mediana;3000;4800;4300;;;
+Ejecutivo;Subgerente de Desarrollo Digital;Grande;4000;7000;5000;;;
+Ejecutivo;Subgerente de Desarrollo Digital;Mediana;3000;4500;3800;;;
+Ejecutivo;Subgerente de Telecomunicaciones;Grande;3100;5000;4500;;;
+Ejecutivo;Subgerente de Telecomunicaciones;Mediana;2800;4500;3500;;;
+Ejecutivo;Subgerente de Aplicaciones;Grande;3200;6500;5000;;;
+Ejecutivo;Subgerente de Aplicaciones;Mediana;2900;4500;3800;;;
+Ejecutivo;Subgerente de Ciberseguridad;Grande;3500;6500;5000;;;
+Ejecutivo;Subgerente de Ciberseguridad;Mediana;3000;5000;3500;;;
+Ejecutivo;Subgerente de Arquitectura;Grande;3500;6500;5000;;;
+Ejecutivo;Subgerente de Arquitectura;Mediana;3000;5000;4000;;;
+Ejecutivo;Subgerente de Redes;Grande;3000;5000;4500;;;
+Ejecutivo;Subgerente de Redes;Mediana;2500;4500;3500;;;
+Ejecutivo;Subgerente de Procesos;Grande;3500;5000;4500;;;
+Ejecutivo;Subgerente de Procesos;Mediana;3000;3500;3000;;;
+Ejecutivo;Subgerente PMO (Project Management Office);Grande;3000;5500;4800;;;
+Ejecutivo;Subgerente PMO (Project Management Office);Mediana;2800;4000;3500;;;
+Ejecutivo;Subgerente de QA (Quality Assurance);Grande;2900;5500;4000;;;
+Ejecutivo;Subgerente de QA (Quality Assurance);Mediana;2500;3500;3200;;;
+Ejecutivo;Subgerente de BI (Business Intelligence);Grande;3000;5500;4500;;;
+Ejecutivo;Subgerente de BI (Business Intelligence);Mediana;2500;3500;3300;;;
+Comercial;Gerente Comercial;Grande;;;;;4800;6500
+Comercial;Gerente Comercial;Mediana;;;;;3500;4700
+Comercial;Gerente de Ventas;Grande;;;;;4500;6000
+Comercial;Gerente de Ventas;Mediana;;;;;3000;4400
+Comercial;Gerente de Canales;Grande;;;;;3800;4400
+Comercial;Gerente de Canales;Mediana;;;;;2900;3800
+Comercial;Subgerente de Preventa;Grande;;;;;3300;4100
+Comercial;Subgerente de Preventa;Mediana;;;;;2900;3300
+Comercial;Product Manager;Grande;;;;;3000;4500
+Comercial;Product Manager;Mediana;;;;;1600;2800
+Comercial;Account Manager;Grande;;;;1500;2500;3000
+Comercial;Account Manager;Mediana;;;;800;1300;2500
+Comercial;KAM;Grande;;;;1400;1800;2500
+Comercial;KAM;Mediana;;;;700;1000;2400
+Especialista;Full Stack Developer Inglés;;;;;2850;3600;4500
+Especialista;Full Stack Developer;;;;;2400;3100;3850
+Especialista;Desarrollador Front End;;;;;2000;2600;3100
+Especialista;Desarrollador Back End;;;;;2000;2750;3100
+Especialista;Ingeniero en Ciberseguridad;;;;;1900;2800;3700
+Especialista;Arquitecto Empresarial;;;;;;4200;5100
+Especialista;Arquitecto de Aplicaciones;;;;;2500;3550;4350
+Especialista;Arquitecto Cloud;;;;;2500;3500;4300
+Especialista;DevOps;;;;;2000;2800;3650
+Especialista;Scrum Master;;;;;;2850;3500
+Especialista;Desarrollador Mobile;;;;;2500;3600;4500
+Especialista;Quality Assurance;;;;;2000;2450;2800
+Especialista;Quality Assurance Automatizador;;;;;2300;2700;3300
+Especialista;Product Owner (PO);;;;;;3100;3950
+Especialista;Data Engineer;;;;;2600;3200;4200
+Especialista;Diseñador UX/UI;;;;;1400;1900;2800
+Especialista;Jefe de Proyectos;;;;;2200;2900;3600
+Especialista;Líder Técnico;;;;;;3600;4250
+Especialista;Project Manager (PM);;;;;2400;3200;4100
+Especialista;PMO (Project Management Office);;;;;2500;3000;4200
+Especialista;QA (Quality Assurance);;;;;1900;2800;4000
+Especialista;Jefe de Informática;;;;;;2800;3500
+Especialista;Jefe de Mesa de Ayuda;;;;;;3100;3900
+Especialista;Oficial de Seguridad;;;;;;3100;3900
+Especialista;Ingeniero de Procesos;;;;;1900;2800;3500
+Especialista;Administrador de Plataformas;;;;;1600;2500;2800
+Especialista;Administrador de Base de Datos;;;;;2300;3100;3800
+Especialista;Especialista BI (Business Intelligence);;;;;1900;2600;3500
+Especialista;Ingeniero de Sistemas;;;;;1200;2000;2600
+Especialista;Soporte TI;;;;;800;1300;2400
+Especialista;Analista de Testing;;;;;1000;1400;1800
+SAP;Consultor SUCCESS FACTORS;;;;;2250;3100;3650
+SAP;Desarrollador ABAP;;;;;2000;2500;3000
+SAP;FIORI;;;;;2300;2800;3400
+SAP;Consultor FICO;;;;;2300;2900;3400
+SAP;Consultor FI;;;;;2100;2750;3500
+SAP;Consultor CO;;;;;2100;2700;3450
+SAP;Consultor SD;;;;;2200;2800;3400
+SAP;Consultor MM;;;;;2000;2450;3100
+SAP;Consultor SD – MM;;;;;2000;2500;3300
+SAP;Consultor BASIS;;;;;2000;2600;3100
+SAP;Consultor CRM;;;;;2200;2950;3700
+SAP;Consultor PI;;;;;2250;3000;3700
+SAP;Consultor BI – BO – SAC;;;;;2100;2800;3500
+SAP;Consultor LO;;;;;2150;2800;3500
+SAP;Consultor LE;;;;;2150;2900;3650
+SAP;Consultor PP;;;;;2000;2700;3200
+SAP;Consultor QM;;;;;2200;2750;3400
+SAP;Consultor HCM;;;;;2200;2750;3400
+SAP;Consultor PM;;;;;2200;2700;3200
+SAP;Consultor SCM;;;;;2250;2750;3300
+SAP;Consultor IS-RETAIL;;;;;2600;3400;4050
+SAP;Consultor II-OIL GAS;;;;;2600;3500;4200
+SAP;Consultor IS-U;;;;;2500;3400;4200
+SAP;Consultor IS-H;;;;;2500;3350;4250
+SAP;Consultor IS-P;;;;;2500;3400;4200
+SAP;Consultor DBM;;;;;2450;3300;3900
+SAP;Consultor WMS;;;;;2450;3300;3900
+SAP;Consultor FICA;;;;;2800;3700;4600
